@@ -5,6 +5,11 @@
 https://www.hrwhisper.me/baidu-share-not-support-https-solution/
 
 ## 更新日志 ##
+### 2016.11.23 ###
+- 回滚之前版本，重新上传
+
+### 2016.10.2 ###
+- 修复悬浮窗样式无效问题
 
 ### 2016.7.27 ###
 - 加入slide_view.js
